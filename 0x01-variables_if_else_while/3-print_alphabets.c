@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints both lower and upper case letters a-z
- * Returns: zero always
+ * Return: zero always
  */
 int main(void)
 {
@@ -11,7 +11,7 @@ int main(void)
 	{
 		putchar(ch);
 	}
-	for (ch= 'A'; ch <= 'Z'; ch++)
+	for (ch = 'A'; ch <= 'Z'; ch++)
 	{
 		putchar(ch);
 	}
