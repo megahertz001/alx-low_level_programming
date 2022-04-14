@@ -30,6 +30,7 @@ void jack_bauer(void)
 					_putchar(':');
 					_putchar(minutes_tens);
 					_putchar(minutes_unit);
+					_putchar('\n');
 					minutes_unit++;
 				}
 				minutes_unit = '0';
