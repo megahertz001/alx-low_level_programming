@@ -3,7 +3,8 @@
 /**
  * times_table - prints the 9 times table
  * Return:void
- */void times_table(void)
+ */
+ void times_table(void)
 {
 	int row, column, product, tens, ones;
 
@@ -12,7 +13,7 @@
 		for (column = 0; column <= 9; column++)
 		{
 			product = row * column;
-			tens = product /10;
+			tens = product / 10;
 			ones = product % 10;
 
 			if (column == 0)
