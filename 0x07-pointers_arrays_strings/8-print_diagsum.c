@@ -6,7 +6,6 @@
  * @a: pointer to square matrix
  * @size: size of sqaure
  */
-
 void print_diagsums(int *a, int size)
 {
 	int i, sum1 = 0, sum2 = 0;
