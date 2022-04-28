@@ -1,1 +1,1 @@
-My first low level programming in C
+Even more pointers, arrays and strings
