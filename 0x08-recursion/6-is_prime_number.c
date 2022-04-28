@@ -7,7 +7,7 @@
  * Return: 0 or 1
  */
 
-int is_primeInumber(int n)
+int is_prime_number(int n)
 {
 	return (check_prime(n, 2));
 }
