@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * last_index - returns last index of astring 
+ * last_index - returns last index of astring
  * @s: pointer to the string
  * Return: int
  */
@@ -18,7 +18,7 @@ int last_index(char *s)
 /**
  * is_palindrome - check if a string is a palindrome
  * @s: string to check
- * Retun: 0 or 1
+ * Return: 0 or 1
  */
 
 int is_palindrome(char *s)
