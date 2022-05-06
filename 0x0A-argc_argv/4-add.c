@@ -31,7 +31,7 @@ int main(int agrc, char *argv[])
 			}
 		}
 		num = atoi(argv[argc]);
-		sum +=num;
+		sum += num;
 	}
 	printf("%d\n", sum);
 	return (sum);
